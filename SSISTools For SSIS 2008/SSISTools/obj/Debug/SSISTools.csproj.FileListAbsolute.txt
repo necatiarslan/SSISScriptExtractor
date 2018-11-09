@@ -1,0 +1,19 @@
+e:\documents\visual studio 2013\Projects\SSISTools\SSISTools\obj\Debug\SSISTools.csprojResolveAssemblyReference.cache
+e:\documents\visual studio 2013\Projects\SSISTools\SSISTools\obj\Debug\SSISTools.MainForm.resources
+e:\documents\visual studio 2013\Projects\SSISTools\SSISTools\obj\Debug\SSISTools.Properties.Resources.resources
+e:\documents\visual studio 2013\Projects\SSISTools\SSISTools\obj\Debug\SSISTools.csproj.GenerateResource.Cache
+e:\documents\visual studio 2013\Projects\SSISTools\SSISTools\obj\Debug\SSISTools.SqlPreviewForm.resources
+e:\documents\visual studio 2013\Projects\SSISTools\SSISTools\bin\Debug\SSIS Script Extractor.exe
+e:\documents\visual studio 2013\Projects\SSISTools\SSISTools\bin\Debug\SSIS Script Extractor.pdb
+e:\documents\visual studio 2013\Projects\SSISTools\SSISTools\obj\Debug\SSIS Script Extractor.exe
+e:\documents\visual studio 2013\Projects\SSISTools\SSISTools\obj\Debug\SSIS Script Extractor.pdb
+E:\Documents\Visual Studio 2013\Projects\SSISTools For SSIS 2008\SSISTools\obj\Debug\SSIS Script Extractor.exe
+E:\Documents\Visual Studio 2013\Projects\SSISTools For SSIS 2008\SSISTools\obj\Debug\SSIS Script Extractor.pdb
+E:\Documents\Visual Studio 2013\Projects\SSISTools For SSIS 2008\SSISTools\bin\Debug\SSIS Script Extractor.exe
+E:\Documents\Visual Studio 2013\Projects\SSISTools For SSIS 2008\SSISTools\bin\Debug\SSIS Script Extractor.pdb
+E:\Documents\Visual Studio 2013\Projects\SSISTools For SSIS 2008\SSISTools\bin\Debug\Microsoft.SqlServer.DTSRuntimeWrap.dll
+E:\Documents\Visual Studio 2013\Projects\SSISTools For SSIS 2008\SSISTools\obj\Debug\SSISTools.csprojResolveAssemblyReference.cache
+E:\Documents\Visual Studio 2013\Projects\SSISTools For SSIS 2008\SSISTools\obj\Debug\SSISTools.MainForm.resources
+E:\Documents\Visual Studio 2013\Projects\SSISTools For SSIS 2008\SSISTools\obj\Debug\SSISTools.Properties.Resources.resources
+E:\Documents\Visual Studio 2013\Projects\SSISTools For SSIS 2008\SSISTools\obj\Debug\SSISTools.SqlPreviewForm.resources
+E:\Documents\Visual Studio 2013\Projects\SSISTools For SSIS 2008\SSISTools\obj\Debug\SSISTools.csproj.GenerateResource.Cache
